@@ -899,6 +899,7 @@
      border-width: var(--embedFull-border-width);
      border-style: solid;
      border-color: var(--embedFull-border-color);
+     background-color: var(--embedFull-background-color);
  }
 
  .actionBar-1ozugS {
