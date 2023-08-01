@@ -896,9 +896,9 @@
      /* remove existing border on embeds, if any */
      border-left: 0px;
      border-radius: var(--unity-border-radius);
-     border-width: 3px;
+     border-width: var(--embedFull-border-width);
      border-style: solid;
-     border-color: rgb(255,255,255);
+     border-color: var(--embedFull-border-color);
  }
 
  .actionBar-1ozugS {
