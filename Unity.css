@@ -2874,7 +2874,7 @@ background-color: transparent;
 
  .icon-2IDTxf {
      border-color: var(--background-secondary);
-     background-color: var(--background-secondary);
+     background-color: rpg(0,0,0);
  }
 
  :is(.theme-dark, .theme-light) .container-2qVG6q:hover:not(.isOpen-2OXbFs),
