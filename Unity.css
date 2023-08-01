@@ -896,7 +896,7 @@
      /* remove existing border on embeds, if any */
      border-left: 0px;
      border-radius: var(--unity-border-radius);
-     border-width: 2px;
+     border-width: 5px;
      border-style: solid;
  }
 
