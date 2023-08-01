@@ -2869,7 +2869,7 @@ background-color: transparent;
  .card-3x20HF,
  .container-xwOzwi,
  .container-2Hi7Km {
-     background-color: var(--background-secondary);
+     background-color: rpg(0,0,0);
  }
 
  .icon-2IDTxf {
